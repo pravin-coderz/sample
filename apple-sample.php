@@ -16,7 +16,7 @@
  * Plugin Name:       Apple
  * Plugin URI:        appleplugin.com
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            test
  * Author URI:        test.com
  * License:           GPL-2.0+
