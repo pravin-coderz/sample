@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The public-facing functionality of the plugin.
+ * The public-facing functionality of the plugin pravin.
  *
  * @link       test.com
  * @since      1.0.0
