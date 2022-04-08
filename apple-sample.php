@@ -23,6 +23,8 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       apple-sample
  * Domain Path:       /languages
+ * GitHub Plugin URI: https://github.com/pravinmbf/sample
+ * Primary Branch: main
  */
 
 add_action( 'init', 'github_plugin_updater_test_init' );
