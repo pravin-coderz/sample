@@ -36,7 +36,7 @@ function github_plugin_updater_test_init() {
 
 		$config = array(
 			'slug' => plugin_basename( __FILE__ ),
-			'proper_folder_name' => 'github-updater',
+			'proper_folder_name' => 'sample',
 			'api_url' => 'https://api.github.com/repos/pravinmbf/sample',
 			'raw_url' => 'https://raw.github.com/pravinmbf/sample/master',
 			'github_url' => 'https://github.com/pravinmbf/sample',
