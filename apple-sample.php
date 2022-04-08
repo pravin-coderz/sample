@@ -27,6 +27,13 @@
  * Primary Branch: main
  */
 
+include_once 'src/boot.php';
+include_once 'src/plugin-updater.php';
+include_once 'src/updater.php';
+
+$updater = MakeitWorkPress\WP_Updater\Boot::instance();
+$updater->add(['type' => 'plugin', 'source' => 'https://github.com/pravinmbf/sample']);
+
 add_action( 'init', 'github_plugin_updater_test_init' );
 function github_plugin_updater_test_init() {
 
