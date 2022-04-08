@@ -40,7 +40,7 @@ function github_plugin_updater_test_init() {
 			'api_url' => 'https://api.github.com/repos/pravinmbf/sample',
 			'raw_url' => 'https://raw.github.com/pravinmbf/sample/master',
 			'github_url' => 'https://github.com/pravinmbf/sample',
-			'zip_url' => 'https://github.com/pravinmbf/sample/archive/master.zip',
+			'zip_url' => 'https://github.com/pravinmbf/sample/archive/refs/heads/main.zip',
 			'sslverify' => true,
 			'requires' => '3.0',
 			'tested' => '3.3',
