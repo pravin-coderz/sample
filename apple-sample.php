@@ -232,7 +232,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-apple-sample.php';
  *
  * Since everything within the plugin is registered via hooks,
  * then kicking off the plugin from this point in the file does
- * not affect the page life cycle.
+ * not affect the page life cycle. Pravin
  *
  * @since    1.0.0
  */
