@@ -11,7 +11,7 @@
  */
 
 /**
- * Fired during plugin activation.
+ * Fired during plugin activation Pravin.
  *
  * This class defines all code necessary to run during the plugin's activation.
  *
